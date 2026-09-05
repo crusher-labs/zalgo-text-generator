@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://crusher-labs.github.io/zalgo-text-generator/sitemap.xml
